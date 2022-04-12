@@ -23,3 +23,4 @@ Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-gi
 
 Make sure that the deployed branch is `main` in settings.
 # stage_2_step_7_tribute_page
+# stage_2_step_7_tribute_page
