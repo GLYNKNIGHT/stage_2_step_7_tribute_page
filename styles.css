@@ -1,1 +1,100 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+  text-align:center;
+  font-family:verdana,arial;
+  background: #677f69;
+}
+#main {
+  background: #677f69;
+  color:black;
+}
+#title {
+  font-size: 60px;
+}
+#logo{
+   border:none;
+}
+#tribute-info {
+  max-width:750px;
+  margin: 0 auto 50px auto;
+  text-align:left;
+
+}
+#img-caption {
+  font-size:14px;
+  padding:10px;
+}
+#img-div{
+  max-width:700px;
+  background:black;
+  border-radius:20px;
+  padding:10px;
+  margin: 0 auto 50px auto;
+  color:white;
+}
+
+#image{
+width:auto;
+height:auto;
+}
+
+
+#history{
+  max-width:800px;
+  margin: 0 auto 50px auto;
+  text-align:left;
+}
+ul{
+  list-style-type: none;
+  font-size:14px;
+  text-align:left;
+  line-height:1.5em;
+}
+ 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+figcaption{
+  font-size:14px;
+}
+img {
+  max-width:95%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius:10px;
+  border: 3px solid #555;
+  height: 170px;
+  object-fit: cover;
+}
+#gallery{
+  width:800px;
+  background:black;
+  color:white;
+  text-align:center;
+  font-family:verdana,arial;
+  border-radius:20px;
+  padding:10px;
+  margin: 0 auto 50px auto;
+}
+
+#tank-div{
+align:center;
+background:black;
+max-width:500px;
+border-radius:20px;
+color:white;
+text-align:center;
+padding:15px;
+margin: 0 auto 50px auto;
+}
+ #tank{
+width:auto;
+height:auto;
+color:white;
+text-align:center;
+}/* Copy and paste your CSS from CodePen into here */
